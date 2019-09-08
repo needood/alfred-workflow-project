@@ -1,0 +1,23 @@
+{
+  "name": "cliver4alfred",
+  "version": "0.1.0",
+  "description": "autocomplete for alfred",
+  "main": "lib/index.js",
+  "scripts": {
+    "prepublish": "npm run babel-lib",
+    "babel-lib": "BABEL_ENV=lib babel --extensions .ts --root-mode upward --source-maps=true src --out-dir lib",
+    "watch": "npm run watch:babel-lib",
+    "watch:babel-lib": "BABEL_ENV=lib babel --extensions .ts --root-mode upward --source-maps=true src --watch --out-dir lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "_id": "autocomplete@1.0.0",
+  "dependencies": {
+    "@babel/runtime": "^7.3.4",
+    "cliver": "^0.4.1",
+    "core-js": "3",
+    "yargs": "^12.0.1"
+  }
+}
