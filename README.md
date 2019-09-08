@@ -9,6 +9,9 @@
 
 通过alfred的快速补全adr命令
 
++ things 主命令
++ things config 项目路径配置
+
 ![](https://github.com/needood/alfred-workflow-project/blob/master/screenshot/1.png?raw=true)
 ![](https://github.com/needood/alfred-workflow-project/blob/master/screenshot/2.png?raw=true)
 ![](https://github.com/needood/alfred-workflow-project/blob/master/screenshot/3.png?raw=true)
