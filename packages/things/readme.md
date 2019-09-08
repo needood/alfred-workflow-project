@@ -1,6 +1,6 @@
 # things
 
-adr--轻量级架构决策记录工具，fork by https://github.com/phodal/adr
+adr--轻量级架构决策记录工具，forked by https://github.com/phodal/adr
 
 # 什么是adr：
 
