@@ -9,6 +9,9 @@
     "email": "tamamaspace@gmail.com",
     "url": "needood.com"
   },
+  "pkg": {
+    "assets": "templates/**/*"
+  },
   "bin": {
     "things": "lib/cli.js"
   },
